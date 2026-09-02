@@ -28,7 +28,7 @@ using input values and a math library.
 
 ## Sample Output
 
-*Enter the coordinates of the first point:
+_Enter the coordinates of the first point:
 Enter x: 12
 Enter y: 36
 
@@ -36,7 +36,7 @@ Enter the coordinates of the second point:
 Enter x: 24
 Enter y: 72
 
-The distance between the two points is: 37.95 units*
+The distance between the two points is: 37.95 units_
 
 ## Author
 
