@@ -2,7 +2,7 @@
 
 ## Description
 
-This program calculates the distance between two points (x1, y1) and (x2, y2) on a 2D plane
+This program calculates the distance between two points (x₁, y₁) and (x₂, y₂) on a 2D plane
 
 using input values and a math library.
 
@@ -12,31 +12,31 @@ using input values and a math library.
 
 2. Run the program.
 
-3. Enter the values for x1, y1, x2, and y2.
+3. Enter the values for - x₁, y₁, x₂, y₂.
 
 4. Check the distance displayed on the screen.
 
 ## Input Needed
 
-- x1
+- x₁
 
-- y1
+- y₁
 
-- x2
+- x₂
 
-- y2
+- y₂
 
 ## Sample Output
 
-Enter x1: 2
+*Enter the coordinates of the first point:
+Enter x: 12
+Enter y: 36
 
-Enter y1: 3
+Enter the coordinates of the second point:
+Enter x: 24
+Enter y: 72
 
-Enter x2: 7
-
-Enter y2: 8
-
-The distance between the two points is: 7.07
+The distance between the two points is: 37.95 units*
 
 ## Author
 
